@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/mohankshetra/dsasols/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/mohankshetra/dsasols/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/mohankshetra/dsasols/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/mohankshetra/dsasols/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/mohankshetra/dsasols/tree/master/0093-restore-ip-addresses) |
 ## Stack
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mohankshetra/dsasols/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mohankshetra/dsasols/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mohankshetra/dsasols/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mohankshetra/dsasols/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohankshetra/dsasols/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/mohankshetra/dsasols/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/mohankshetra/dsasols/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
