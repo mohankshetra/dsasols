@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/mohankshetra/dsasols/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mohankshetra/dsasols/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/mohankshetra/dsasols/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/mohankshetra/dsasols/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohankshetra/dsasols/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/mohankshetra/dsasols/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/mohankshetra/dsasols/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohankshetra/dsasols/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohankshetra/dsasols/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohankshetra/dsasols/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/mohankshetra/dsasols/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/mohankshetra/dsasols/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohankshetra/dsasols/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohankshetra/dsasols/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mohankshetra/dsasols/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/mohankshetra/dsasols/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/mohankshetra/dsasols/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/mohankshetra/dsasols/tree/master/0095-unique-binary-search-trees-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -334,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohankshetra/dsasols/tree/master/0070-climbing-stairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/mohankshetra/dsasols/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
