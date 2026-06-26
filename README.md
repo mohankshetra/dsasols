@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/mohankshetra/dsasols/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/mohankshetra/dsasols/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/mohankshetra/dsasols/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/mohankshetra/dsasols/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mohankshetra/dsasols/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mohankshetra/dsasols/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mohankshetra/dsasols/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/mohankshetra/dsasols/tree/master/0064-minimum-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mohankshetra/dsasols/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohankshetra/dsasols/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/mohankshetra/dsasols/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/mohankshetra/dsasols/tree/master/0064-minimum-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
