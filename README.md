@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/mohankshetra/dsasols/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/mohankshetra/dsasols/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/mohankshetra/dsasols/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/mohankshetra/dsasols/tree/master/0013-roman-to-integer) |
 | [0093-restore-ip-addresses](https://github.com/mohankshetra/dsasols/tree/master/0093-restore-ip-addresses) |
 ## Backtracking
 |  |
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohankshetra/dsasols/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohankshetra/dsasols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/mohankshetra/dsasols/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohankshetra/dsasols/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mohankshetra/dsasols/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mohankshetra/dsasols/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mohankshetra/dsasols/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
