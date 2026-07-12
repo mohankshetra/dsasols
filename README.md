@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohankshetra/dsasols/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/mohankshetra/dsasols/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mohankshetra/dsasols/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/mohankshetra/dsasols/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mohankshetra/dsasols/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mohankshetra/dsasols/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/mohankshetra/dsasols/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/mohankshetra/dsasols/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
