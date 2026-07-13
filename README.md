@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/mohankshetra/dsasols/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/mohankshetra/dsasols/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohankshetra/dsasols/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/mohankshetra/dsasols/tree/master/0203-remove-linked-list-elements) |
 ## String
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mohankshetra/dsasols/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/mohankshetra/dsasols/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/mohankshetra/dsasols/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/mohankshetra/dsasols/tree/master/0203-remove-linked-list-elements) |
 ## Sliding Window
 |  |
 | ------- |
