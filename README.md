@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/mohankshetra/dsasols/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/mohankshetra/dsasols/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/mohankshetra/dsasols/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/mohankshetra/dsasols/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Matrix
 |  |
 | ------- |
