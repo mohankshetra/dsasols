@@ -656,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mohankshetra/dsasols/tree/master/0207-course-schedule) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/mohankshetra/dsasols/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
