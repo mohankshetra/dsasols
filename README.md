@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/mohankshetra/dsasols/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mohankshetra/dsasols/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/mohankshetra/dsasols/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/mohankshetra/dsasols/tree/master/0214-shortest-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohankshetra/dsasols/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/mohankshetra/dsasols/tree/master/0214-shortest-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -657,10 +659,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/mohankshetra/dsasols/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/mohankshetra/dsasols/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/mohankshetra/dsasols/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/mohankshetra/dsasols/tree/master/0214-shortest-palindrome) |
 ## Enumeration
 |  |
 | ------- |
