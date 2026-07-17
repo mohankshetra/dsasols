@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/mohankshetra/dsasols/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/mohankshetra/dsasols/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mohankshetra/dsasols/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/mohankshetra/dsasols/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/mohankshetra/dsasols/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/mohankshetra/dsasols/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/mohankshetra/dsasols/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/mohankshetra/dsasols/tree/master/0212-word-search-ii) |
 ## Stack
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mohankshetra/dsasols/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/mohankshetra/dsasols/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohankshetra/dsasols/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/mohankshetra/dsasols/tree/master/0212-word-search-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/mohankshetra/dsasols/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/mohankshetra/dsasols/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mohankshetra/dsasols/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/mohankshetra/dsasols/tree/master/0212-word-search-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mohankshetra/dsasols/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/mohankshetra/dsasols/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/mohankshetra/dsasols/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/mohankshetra/dsasols/tree/master/0212-word-search-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
