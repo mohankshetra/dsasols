@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/mohankshetra/dsasols/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/mohankshetra/dsasols/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/mohankshetra/dsasols/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/mohankshetra/dsasols/tree/master/0227-basic-calculator-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/mohankshetra/dsasols/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/mohankshetra/dsasols/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/mohankshetra/dsasols/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/mohankshetra/dsasols/tree/master/0227-basic-calculator-ii) |
 ## Tree
 |  |
 | ------- |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mohankshetra/dsasols/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/mohankshetra/dsasols/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/mohankshetra/dsasols/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/mohankshetra/dsasols/tree/master/0227-basic-calculator-ii) |
 ## Recursion
 |  |
 | ------- |
