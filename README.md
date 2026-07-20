@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/mohankshetra/dsasols/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/mohankshetra/dsasols/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/mohankshetra/dsasols/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/mohankshetra/dsasols/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/mohankshetra/dsasols/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mohankshetra/dsasols/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mohankshetra/dsasols/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/mohankshetra/dsasols/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mohankshetra/dsasols/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/mohankshetra/dsasols/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/mohankshetra/dsasols/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/mohankshetra/dsasols/tree/master/0229-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohankshetra/dsasols/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mohankshetra/dsasols/tree/master/0229-majority-element-ii) |
 ## Iterator
 |  |
 | ------- |
