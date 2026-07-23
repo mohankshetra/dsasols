@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mohankshetra/dsasols/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/mohankshetra/dsasols/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/mohankshetra/dsasols/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/mohankshetra/dsasols/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -831,4 +832,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohankshetra/dsasols/tree/master/0239-sliding-window-maximum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mohankshetra/dsasols/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
