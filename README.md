@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/mohankshetra/dsasols/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/mohankshetra/dsasols/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/mohankshetra/dsasols/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohankshetra/dsasols/tree/master/0241-different-ways-to-add-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/mohankshetra/dsasols/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/mohankshetra/dsasols/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/mohankshetra/dsasols/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohankshetra/dsasols/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mohankshetra/dsasols/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/mohankshetra/dsasols/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/mohankshetra/dsasols/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohankshetra/dsasols/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/mohankshetra/dsasols/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/mohankshetra/dsasols/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/mohankshetra/dsasols/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohankshetra/dsasols/tree/master/0241-different-ways-to-add-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -674,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mohankshetra/dsasols/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/mohankshetra/dsasols/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/mohankshetra/dsasols/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohankshetra/dsasols/tree/master/0241-different-ways-to-add-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
