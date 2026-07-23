@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mohankshetra/dsasols/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohankshetra/dsasols/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/mohankshetra/dsasols/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/mohankshetra/dsasols/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mohankshetra/dsasols/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohankshetra/dsasols/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/mohankshetra/dsasols/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/mohankshetra/dsasols/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/mohankshetra/dsasols/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/mohankshetra/dsasols/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/mohankshetra/dsasols/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/mohankshetra/dsasols/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mohankshetra/dsasols/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/mohankshetra/dsasols/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohankshetra/dsasols/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/mohankshetra/dsasols/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/mohankshetra/dsasols/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/mohankshetra/dsasols/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohankshetra/dsasols/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mohankshetra/dsasols/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -649,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/mohankshetra/dsasols/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/mohankshetra/dsasols/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/mohankshetra/dsasols/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/mohankshetra/dsasols/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
