@@ -779,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/mohankshetra/dsasols/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/mohankshetra/dsasols/tree/master/0262-trips-and-users) |
 ## Prefix Sum
 |  |
 | ------- |
