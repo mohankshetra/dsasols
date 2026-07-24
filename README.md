@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/mohankshetra/dsasols/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/mohankshetra/dsasols/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/mohankshetra/dsasols/tree/master/0289-game-of-life) |
+| [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/mohankshetra/dsasols/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/mohankshetra/dsasols/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/mohankshetra/dsasols/tree/master/0289-game-of-life) |
+| [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
 ## Combinatorics
 |  |
 | ------- |
