@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/mohankshetra/dsasols/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/mohankshetra/dsasols/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/mohankshetra/dsasols/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/mohankshetra/dsasols/tree/master/0299-bulls-and-cows) |
 ## Backtracking
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/mohankshetra/dsasols/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/mohankshetra/dsasols/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/mohankshetra/dsasols/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/mohankshetra/dsasols/tree/master/0299-bulls-and-cows) |
 ## Math
 |  |
 | ------- |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mohankshetra/dsasols/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mohankshetra/dsasols/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/mohankshetra/dsasols/tree/master/0299-bulls-and-cows) |
 ## Iterator
 |  |
 | ------- |
