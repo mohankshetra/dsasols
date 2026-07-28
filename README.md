@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/mohankshetra/dsasols/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mohankshetra/dsasols/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/mohankshetra/dsasols/tree/master/0307-range-sum-query-mutable) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mohankshetra/dsasols/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0485-max-consecutive-ones](https://github.com/mohankshetra/dsasols/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/mohankshetra/dsasols/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/mohankshetra/dsasols/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/mohankshetra/dsasols/tree/master/0300-longest-increasing-subsequence) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mohankshetra/dsasols/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Greedy
 |  |
 | ------- |
