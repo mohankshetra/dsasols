@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/mohankshetra/dsasols/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/mohankshetra/dsasols/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/mohankshetra/dsasols/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/mohankshetra/dsasols/tree/master/0322-coin-change) |
 ## Array
 |  |
 | ------- |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mohankshetra/dsasols/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/mohankshetra/dsasols/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/mohankshetra/dsasols/tree/master/0321-create-maximum-number) |
+| [0322-coin-change](https://github.com/mohankshetra/dsasols/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/mohankshetra/dsasols/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mohankshetra/dsasols/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/mohankshetra/dsasols/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/mohankshetra/dsasols/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/mohankshetra/dsasols/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
