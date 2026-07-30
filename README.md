@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/mohankshetra/dsasols/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/mohankshetra/dsasols/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/mohankshetra/dsasols/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/mohankshetra/dsasols/tree/master/0318-maximum-product-of-word-lengths) |
 ## Backtracking
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/mohankshetra/dsasols/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/mohankshetra/dsasols/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mohankshetra/dsasols/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/mohankshetra/dsasols/tree/master/0318-maximum-product-of-word-lengths) |
 | [0485-max-consecutive-ones](https://github.com/mohankshetra/dsasols/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/mohankshetra/dsasols/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mohankshetra/dsasols/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohankshetra/dsasols/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/mohankshetra/dsasols/tree/master/0318-maximum-product-of-word-lengths) |
 ## Matrix
 |  |
 | ------- |
