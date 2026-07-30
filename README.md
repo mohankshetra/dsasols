@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/mohankshetra/dsasols/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mohankshetra/dsasols/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/mohankshetra/dsasols/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/mohankshetra/dsasols/tree/master/0313-super-ugly-number) |
 | [0485-max-consecutive-ones](https://github.com/mohankshetra/dsasols/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/mohankshetra/dsasols/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/mohankshetra/dsasols/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/mohankshetra/dsasols/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/mohankshetra/dsasols/tree/master/0313-super-ugly-number) |
 ## Recursion
 |  |
 | ------- |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/mohankshetra/dsasols/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mohankshetra/dsasols/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/mohankshetra/dsasols/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/mohankshetra/dsasols/tree/master/0313-super-ugly-number) |
 ## Greedy
 |  |
 | ------- |
