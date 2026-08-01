@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/mohankshetra/dsasols/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/mohankshetra/dsasols/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/mohankshetra/dsasols/tree/master/0322-coin-change) |
+| [0324-wiggle-sort-ii](https://github.com/mohankshetra/dsasols/tree/master/0324-wiggle-sort-ii) |
 | [0485-max-consecutive-ones](https://github.com/mohankshetra/dsasols/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mohankshetra/dsasols/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/mohankshetra/dsasols/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mohankshetra/dsasols/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0324-wiggle-sort-ii](https://github.com/mohankshetra/dsasols/tree/master/0324-wiggle-sort-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mohankshetra/dsasols/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/mohankshetra/dsasols/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/mohankshetra/dsasols/tree/master/0321-create-maximum-number) |
+| [0324-wiggle-sort-ii](https://github.com/mohankshetra/dsasols/tree/master/0324-wiggle-sort-ii) |
 ## Trie
 |  |
 | ------- |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohankshetra/dsasols/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohankshetra/dsasols/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/mohankshetra/dsasols/tree/master/0295-find-median-from-data-stream) |
+| [0324-wiggle-sort-ii](https://github.com/mohankshetra/dsasols/tree/master/0324-wiggle-sort-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -890,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohankshetra/dsasols/tree/master/0215-kth-largest-element-in-an-array) |
+| [0324-wiggle-sort-ii](https://github.com/mohankshetra/dsasols/tree/master/0324-wiggle-sort-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
