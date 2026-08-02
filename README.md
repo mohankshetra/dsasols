@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/mohankshetra/dsasols/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/mohankshetra/dsasols/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/mohankshetra/dsasols/tree/master/0330-patching-array) |
 | [0485-max-consecutive-ones](https://github.com/mohankshetra/dsasols/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/mohankshetra/dsasols/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/mohankshetra/dsasols/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/mohankshetra/dsasols/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/mohankshetra/dsasols/tree/master/0330-patching-array) |
 ## Trie
 |  |
 | ------- |
