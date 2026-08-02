@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/mohankshetra/dsasols/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/mohankshetra/dsasols/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/mohankshetra/dsasols/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/mohankshetra/dsasols/tree/master/0332-reconstruct-itinerary) |
 ## Backtracking
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/mohankshetra/dsasols/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/mohankshetra/dsasols/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/mohankshetra/dsasols/tree/master/0332-reconstruct-itinerary) |
 ## Binary Tree
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/mohankshetra/dsasols/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/mohankshetra/dsasols/tree/master/0330-patching-array) |
+| [0332-reconstruct-itinerary](https://github.com/mohankshetra/dsasols/tree/master/0332-reconstruct-itinerary) |
 | [0485-max-consecutive-ones](https://github.com/mohankshetra/dsasols/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohankshetra/dsasols/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/mohankshetra/dsasols/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/mohankshetra/dsasols/tree/master/0324-wiggle-sort-ii) |
+| [0332-reconstruct-itinerary](https://github.com/mohankshetra/dsasols/tree/master/0332-reconstruct-itinerary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -715,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mohankshetra/dsasols/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/mohankshetra/dsasols/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/mohankshetra/dsasols/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/mohankshetra/dsasols/tree/master/0332-reconstruct-itinerary) |
 ## Merge Sort
 |  |
 | ------- |
@@ -826,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/mohankshetra/dsasols/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/mohankshetra/dsasols/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/mohankshetra/dsasols/tree/master/0332-reconstruct-itinerary) |
 ## Design
 |  |
 | ------- |
@@ -968,4 +974,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mohankshetra/dsasols/tree/master/0295-find-median-from-data-stream) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/mohankshetra/dsasols/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
