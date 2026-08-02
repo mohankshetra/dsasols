@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohankshetra/dsasols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mohankshetra/dsasols/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/mohankshetra/dsasols/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/mohankshetra/dsasols/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/mohankshetra/dsasols/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/mohankshetra/dsasols/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Array
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mohankshetra/dsasols/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/mohankshetra/dsasols/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/mohankshetra/dsasols/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0485-max-consecutive-ones](https://github.com/mohankshetra/dsasols/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/mohankshetra/dsasols/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/mohankshetra/dsasols/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/mohankshetra/dsasols/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -758,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mohankshetra/dsasols/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/mohankshetra/dsasols/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mohankshetra/dsasols/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -788,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/mohankshetra/dsasols/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/mohankshetra/dsasols/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mohankshetra/dsasols/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -813,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mohankshetra/dsasols/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohankshetra/dsasols/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/mohankshetra/dsasols/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Design
 |  |
 | ------- |
@@ -881,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mohankshetra/dsasols/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohankshetra/dsasols/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/mohankshetra/dsasols/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Database
 |  |
 | ------- |
