@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/mohankshetra/dsasols/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/mohankshetra/dsasols/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/mohankshetra/dsasols/tree/master/0332-reconstruct-itinerary) |
+| [0336-palindrome-pairs](https://github.com/mohankshetra/dsasols/tree/master/0336-palindrome-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/mohankshetra/dsasols/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/mohankshetra/dsasols/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/mohankshetra/dsasols/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/mohankshetra/dsasols/tree/master/0336-palindrome-pairs) |
 | [0485-max-consecutive-ones](https://github.com/mohankshetra/dsasols/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohankshetra/dsasols/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/mohankshetra/dsasols/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/mohankshetra/dsasols/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/mohankshetra/dsasols/tree/master/0336-palindrome-pairs) |
 ## Math
 |  |
 | ------- |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/mohankshetra/dsasols/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mohankshetra/dsasols/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/mohankshetra/dsasols/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/mohankshetra/dsasols/tree/master/0336-palindrome-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -890,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/mohankshetra/dsasols/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/mohankshetra/dsasols/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/mohankshetra/dsasols/tree/master/0336-palindrome-pairs) |
 ## Enumeration
 |  |
 | ------- |
