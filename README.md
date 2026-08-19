@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohankshetra/dsasols/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/mohankshetra/dsasols/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/mohankshetra/dsasols/tree/master/0332-reconstruct-itinerary) |
+| [0334-increasing-triplet-subsequence](https://github.com/mohankshetra/dsasols/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/mohankshetra/dsasols/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/mohankshetra/dsasols/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/mohankshetra/dsasols/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/mohankshetra/dsasols/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/mohankshetra/dsasols/tree/master/0334-increasing-triplet-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -978,4 +980,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/mohankshetra/dsasols/tree/master/0332-reconstruct-itinerary) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mohankshetra/dsasols/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
