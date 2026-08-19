@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/mohankshetra/dsasols/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/mohankshetra/dsasols/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/mohankshetra/dsasols/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/mohankshetra/dsasols/tree/master/0335-self-crossing) |
 | [0485-max-consecutive-ones](https://github.com/mohankshetra/dsasols/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/mohankshetra/dsasols/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/mohankshetra/dsasols/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/mohankshetra/dsasols/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/mohankshetra/dsasols/tree/master/0335-self-crossing) |
 ## Recursion
 |  |
 | ------- |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/mohankshetra/dsasols/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/mohankshetra/dsasols/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/mohankshetra/dsasols/tree/master/0335-self-crossing) |
 ## Bucket Sort
 |  |
 | ------- |
