@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/mohankshetra/dsasols/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mohankshetra/dsasols/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/mohankshetra/dsasols/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/mohankshetra/dsasols/tree/master/0336-palindrome-pairs) |
 | [1386-cinema-seat-allocation](https://github.com/mohankshetra/dsasols/tree/master/1386-cinema-seat-allocation) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mohankshetra/dsasols/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
