@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/mohankshetra/dsasols/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/mohankshetra/dsasols/tree/master/0336-palindrome-pairs) |
 | [0485-max-consecutive-ones](https://github.com/mohankshetra/dsasols/tree/master/0485-max-consecutive-ones) |
+| [1386-cinema-seat-allocation](https://github.com/mohankshetra/dsasols/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/mohankshetra/dsasols/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mohankshetra/dsasols/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/mohankshetra/dsasols/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/mohankshetra/dsasols/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/mohankshetra/dsasols/tree/master/0336-palindrome-pairs) |
+| [1386-cinema-seat-allocation](https://github.com/mohankshetra/dsasols/tree/master/1386-cinema-seat-allocation) |
 ## Math
 |  |
 | ------- |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/mohankshetra/dsasols/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/mohankshetra/dsasols/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/mohankshetra/dsasols/tree/master/0334-increasing-triplet-subsequence) |
+| [1386-cinema-seat-allocation](https://github.com/mohankshetra/dsasols/tree/master/1386-cinema-seat-allocation) |
 ## Trie
 |  |
 | ------- |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mohankshetra/dsasols/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/mohankshetra/dsasols/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/mohankshetra/dsasols/tree/master/0338-counting-bits) |
+| [1386-cinema-seat-allocation](https://github.com/mohankshetra/dsasols/tree/master/1386-cinema-seat-allocation) |
 ## Matrix
 |  |
 | ------- |
